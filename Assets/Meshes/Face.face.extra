@@ -1,0 +1,18 @@
+[
+  {
+    "guid": {
+      "a": "6985a130-19c0-e2c2-75f6-2a170a6aaf83",
+      "b": ""
+    },
+    "extraType": "ResItemFaceMesh",
+    "name": "Face",
+    "fillEyes": true,
+    "fillMouth": true,
+    "faceIndex": 0,
+    "objGuid": "Guid(7731690013573910209, 4135376291967458459)",
+    "rttiType": "Mesh",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false
+  }
+]
