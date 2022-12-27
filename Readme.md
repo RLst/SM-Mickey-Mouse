@@ -1,6 +1,6 @@
 # Head Tracker
 
-[Template Description]
+Mickey Mouse ears and nose head tracked
 
 **Current Developer:** 
 
