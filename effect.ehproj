@@ -1,6 +1,6 @@
 {
   "name": "SM Mickey Mouse",
-  "lastModified": "Mon, 26 Dec 2022 05:09:48 GMT",
+  "lastModified": "Tue, 27 Dec 2022 03:46:43 GMT",
   "version": "1.9.1",
   "toolName": "Effect House",
   "projectID": "b64a72b1-6c7b-50c8-d4cc-b414631560bc",
@@ -75,9 +75,9 @@
     "62": "Layer 62",
     "63": "Layer 63"
   },
-  "durationToCreate": 3999285751,
-  "durationCreation": 5776789,
-  "durationBackground": 796825,
+  "durationToCreate": 4080700130,
+  "durationCreation": 6131919,
+  "durationBackground": 797675,
   "effectHint": "open_your_mouth",
   "templateID": "templateID_HeadTracker",
   "overwriteBuiltinMakeup": true,

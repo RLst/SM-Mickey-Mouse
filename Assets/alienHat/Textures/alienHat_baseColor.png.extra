@@ -6,7 +6,7 @@
     },
     "extraType": "ResItemPNGImage",
     "name": "alienHat_baseColor",
-    "objGuid": "Guid(2109086321733489542, 6889896617185617563)",
+    "objGuid": "Guid(3120527921772508046, 11975453529575932827)",
     "rttiType": "Texture2D",
     "version": "0.1.0",
     "isVisibleInInspector": true,

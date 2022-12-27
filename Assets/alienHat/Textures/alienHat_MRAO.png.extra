@@ -6,7 +6,7 @@
     },
     "extraType": "ResItemPNGImage",
     "name": "alienHat_MRAO",
-    "objGuid": "Guid(7083358960870739213, 704721689404895409)",
+    "objGuid": "Guid(18983994415678602, 13713303182647887247)",
     "rttiType": "Texture2D",
     "version": "0.1.0",
     "isVisibleInInspector": true,

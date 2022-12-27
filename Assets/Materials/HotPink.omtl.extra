@@ -6,11 +6,11 @@
     },
     "extraType": "ResItemMaterialOmtl",
     "name": "HotPink",
-    "objGuid": "Guid(10252337565659956621, 3671060874301772184)",
+    "objGuid": "Guid(1315798916183631907, 361215876162014382)",
     "rttiType": "Material",
     "version": "0.1.0",
     "isVisibleInInspector": true,
     "hideInPanel": false,
-    "skinObjGuid": "Guid(11044788602740071749, 16685399805367160448)"
+    "skinObjGuid": "Guid(9818090863862607577, 15259874019213586111)"
   }
 ]

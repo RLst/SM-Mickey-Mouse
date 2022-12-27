@@ -6,11 +6,11 @@
     },
     "extraType": "ResItemMaterialOmtl",
     "name": "alienHat_mat",
-    "objGuid": "Guid(307867005131068867, 6706478202803340218)",
+    "objGuid": "Guid(13782780965416413807, 4733570680051624848)",
     "rttiType": "Material",
     "version": "0.1.0",
     "isVisibleInInspector": true,
     "hideInPanel": false,
-    "skinObjGuid": "Guid(15801786101674859907, 11411228675945790599)"
+    "skinObjGuid": "Guid(6215103282646288512, 5243018649859474616)"
   }
 ]

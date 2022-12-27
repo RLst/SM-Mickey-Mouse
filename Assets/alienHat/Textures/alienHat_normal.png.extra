@@ -6,7 +6,7 @@
     },
     "extraType": "ResItemPNGImage",
     "name": "alienHat_normal",
-    "objGuid": "Guid(2541687371494053325, 2264159223052346558)",
+    "objGuid": "Guid(9315850946747090381, 5564294001026061502)",
     "rttiType": "Texture2D",
     "version": "0.1.0",
     "isVisibleInInspector": true,
